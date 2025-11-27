@@ -16,13 +16,17 @@
 ### 索引
 ![alt text](image-1.png)
 
+### MTEB排行榜
+https://huggingface.co/spaces/mteb/
+![alt text](image-2.png)
 
+## 召回
+![alt text](image-3.png)
 
-
-
-
-
-
+## 重排
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
 
 
 
